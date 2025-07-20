@@ -18,7 +18,11 @@ To use the script:
 5. Doubleclick the shortcut
 
 The tool itself is quite simple:
+
 Press "Backup Now!" to save a new backup. Do that after a successful run, after loading into in the police department or main menu.
+
 Press "Restore Now!" to overwrite your in-game saves. Do that while in Main Menu or LSPD hub.
+
 Press "Options" to change your path where to backup will be stored.
+
 Press "Exit" to exit.
