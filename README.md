@@ -8,9 +8,9 @@ A savegame backup tool for Ready or Not
 To use the script:
 1. Put the LSPDSM.ps1 into  new folder
 2. Create a .bat file in the same location as the .ps1 script with the following content:
-    @echo off
-    start "" powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File ".\LSPDSM.ps1"
-    exit
+        @echo off
+        start "" powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File ".\LSPDSM.ps1"
+        exit
 3. You can now create a shortcut to that .bat file for more simple handling (also the shortcut can have an icon)
 4. Doubleclick the shortcut
 
