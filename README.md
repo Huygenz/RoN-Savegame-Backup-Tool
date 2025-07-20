@@ -26,3 +26,5 @@ Press "Restore Now!" to overwrite your in-game saves. Do that while in Main Menu
 Press "Options" to change your path where to backup will be stored.
 
 Press "Exit" to exit.
+
+### **BE CAREFUL: THE FILES WILL BE OVERWRITTEN ON CLICK SO DON'T BE TRIGGERHAPPY! :)**
