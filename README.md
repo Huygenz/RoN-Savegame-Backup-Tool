@@ -10,9 +10,7 @@ To use the script:
 2. Create a .bat file in the same location as the .ps1 script with the following content:
 
     @echo off
-
     start "" powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File ".\LSPDSM.ps1"
-
     exit
 4. You can now create a shortcut to that .bat file for more simple handling (also the shortcut can have an icon)
 5. Doubleclick the shortcut
