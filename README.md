@@ -1,7 +1,7 @@
 # RoN-Savegame-Backup-Tool
 A savegame backup tool for Ready or Not
 
-![Ready or Not Logo](https://www.nicepng.com/png/detail/824-8248756_ready-or-not-is-a-realistic-tactical-first.png)
+![Ready or Not Logo](https://cdn2.steamgriddb.com/logo_thumb/0b94ce08688c6389ce7b68c52ce3f8c7.png)
 
 ...when you want to play safe in Commander Mode.
 
